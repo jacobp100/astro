@@ -1,5 +1,12 @@
 # astro
 
+## 4.0.4
+
+### Patch Changes
+
+- Updated dependencies [[`270c6cc27`](https://github.com/withastro/astro/commit/270c6cc27f20995883fcdabbff9b56d7f041f9e4)]:
+  - @astrojs/markdown-remark@4.0.1
+
 ## 4.0.3
 
 ### Patch Changes

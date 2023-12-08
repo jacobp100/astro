@@ -1,5 +1,11 @@
 # @astrojs/vercel
 
+## 6.0.2
+
+### Patch Changes
+
+- [#9334](https://github.com/withastro/astro/pull/9334) [`dfbc70790`](https://github.com/withastro/astro/commit/dfbc7079081d3346713cb536358a3854362a2c95) Thanks [@Geo25rey](https://github.com/Geo25rey)! - Allows the edge middleware to be an async function.
+
 ## 6.0.1
 
 ### Patch Changes
